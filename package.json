@@ -1,17 +1,17 @@
 {
-  "name": "rickandmorty-spa-challenge",
+  "name": "rickandmorty",
   "version": "0.1.0",
   "private": false,
   "description": "It was requested to create a SPA application (Singe Page Application) with React.js, Apollo GraphQL and Styled Components in order to setup the Apollo client, and design an application using the tools and standards of Styled Components.",
   "keywords": [
-    "Frontend Developer Challenge",
+    "Frontend Developer ",
     "Blockdemy",
     "Rick and Morty API",
     "SPA",
-    "Francisco Daniel Molina"
+    "Horta maximiliano"
   ],
-  "author": "Francisco D. Molina",
-  "homepage": "https://TheFranciscoMolina.github.io/rickandmorty-spa-challenge/",
+  "author": "Horta Maximiliano",
+ 
   "dependencies": {
     "@apollo/client": "^3.6.9",
     "@testing-library/jest-dom": "^5.16.4",
