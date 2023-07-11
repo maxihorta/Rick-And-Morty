@@ -14,7 +14,7 @@ function App() {
       <Routes>
         <Route
           exact
-          path="rickandmorty-spa-challenge"
+          path="/"
           element={<LandingPage />}
         />
         <Route exact path="/home" element={<HomePage />} />
